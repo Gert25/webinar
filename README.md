@@ -12,6 +12,7 @@
 ### [Maping out the container network on Kubernetes](https://pages.awscloud.com/EMEA-field-OE-DevDay-OpenSource-2020-ondemand-confirmation.html)
 ### [Find and Fix Container Image vulnerabilities](https://goto.docker.com/on-demand-find-fix-container-image-vulnerabilities-ty.html)
 ### [Securing Multicloud](https://www.brighttalk.com/webcast/16085/433009?utm_campaign=communication_reminder_24hr_registrants&utm_medium=email&utm_source=brighttalk-transact&utm_content=title) 
+### [Serverless Overview](https://register.gotowebinar.com/recording/viewRecording/2731395099542308368/7934153281928070408/gert@synthesis.co.za?registrantKey=1546261203856661008&type=ABSENTEEEMAILRECORDINGLINK)
 
 
 
