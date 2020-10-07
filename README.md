@@ -14,6 +14,8 @@
 ### [Securing Multicloud](https://www.brighttalk.com/webcast/16085/433009?utm_campaign=communication_reminder_24hr_registrants&utm_medium=email&utm_source=brighttalk-transact&utm_content=title) 
 ### [Serverless Overview](https://register.gotowebinar.com/recording/viewRecording/2731395099542308368/7934153281928070408/gert@synthesis.co.za?registrantKey=1546261203856661008&type=ABSENTEEEMAILRECORDINGLINK)
 
+### [Servles Workflow](https://register.gotowebinar.com/recording/viewRecording/4213869925807678480/6067490401242319106/gert@synthesis.co.za?registrantKey=4339530911803020300&type=ABSENTEEEMAILRECORDINGLINK)
+
 
 
 
