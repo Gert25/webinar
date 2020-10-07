@@ -16,7 +16,7 @@
 
 ### [Servles Workflow](https://register.gotowebinar.com/recording/viewRecording/4213869925807678480/6067490401242319106/gert@synthesis.co.za?registrantKey=4339530911803020300&type=ABSENTEEEMAILRECORDINGLINK)
 
-
+###  [Serverless Tech](https://register.gotowebinar.com/recording/viewRecording/8850473077493437197/4307504337687301388/gert@synthesis.co.za?registrantKey=6677784225690414092&type=ABSENTEEEMAILRECORDINGLINK)
 
 
 # EKS 
