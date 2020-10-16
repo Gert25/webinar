@@ -18,6 +18,8 @@
 
 ###  [Serverless Tech](https://register.gotowebinar.com/recording/viewRecording/8850473077493437197/4307504337687301388/gert@synthesis.co.za?registrantKey=6677784225690414092&type=ABSENTEEEMAILRECORDINGLINK)
 
+### [Adding Container Security](https://goto.docker.com/on-demand-adding-container-security-ty.html)
+
 ### [Data modernization](https://pages.awscloud.com/EMEA_FIELD_WEBINAR_focus-week-db-analytics--storage_20201005_7010z000001Lxtm_02-On-Demand-Confirmation.html?sc_channel=em&sc_campaign=emea20_focusweekq4&sc_publisher=aws&sc_medium=em_&sc_content=event_ev_field&sc_country=multi&sc_geo=emea&sc_category=mult&sc_outcome=event&trkCampaign=emea20_focusweekq4&trk=em_emea20_focusweekq4_ty) 
 
 
