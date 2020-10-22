@@ -22,6 +22,9 @@
 
 ### [Data modernization](https://pages.awscloud.com/EMEA_FIELD_WEBINAR_focus-week-db-analytics--storage_20201005_7010z000001Lxtm_02-On-Demand-Confirmation.html?sc_channel=em&sc_campaign=emea20_focusweekq4&sc_publisher=aws&sc_medium=em_&sc_content=event_ev_field&sc_country=multi&sc_geo=emea&sc_category=mult&sc_outcome=event&trkCampaign=emea20_focusweekq4&trk=em_emea20_focusweekq4_ty) 
 
+### [Building inteligent Applications with Machnine Learning](https://register.gotowebinar.com/recording/viewRecording/2392587189262732813/3954278530992523265/gert@synthesis.co.za?registrantKey=8208248336461652235&type=ABSENTEEEMAILRECORDINGLINK)
+
+
 
 # EKS 
 # [Getting Started Guid on AWS](https://aws.amazon.com/getting-started/hands-on/deploy-kubernetes-app-amazon-eks/?&trk=el_a134p000003yqRpAAI&trkCampaign=GLBL-FY20-Q4-GC-300-Kubernetes-EKS&sc_channel=el&sc_campaign=gc-300_TYLP&sc_outcome=Global_Marketing_Campaigns&sc_geo=mult)
