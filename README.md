@@ -29,3 +29,6 @@
 # EKS 
 # [Getting Started Guid on AWS](https://aws.amazon.com/getting-started/hands-on/deploy-kubernetes-app-amazon-eks/?&trk=el_a134p000003yqRpAAI&trkCampaign=GLBL-FY20-Q4-GC-300-Kubernetes-EKS&sc_channel=el&sc_campaign=gc-300_TYLP&sc_outcome=Global_Marketing_Campaigns&sc_geo=mult)
 
+# Workshop
+### [Migrations](https://application-migration-with-aws.workshop.aws/en/intro.html)
+
