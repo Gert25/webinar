@@ -24,6 +24,7 @@
 
 ### [Building inteligent Applications with Machnine Learning](https://register.gotowebinar.com/recording/viewRecording/2392587189262732813/3954278530992523265/gert@synthesis.co.za?registrantKey=8208248336461652235&type=ABSENTEEEMAILRECORDINGLINK)
 
+## [Security Roadshow](https://emea-resources.awscloud.com/aws-mea-security-virtual-roadshow)
 
 
 # EKS 
