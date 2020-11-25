@@ -32,4 +32,5 @@
 
 # Workshop
 ### [Migrations](https://application-migration-with-aws.workshop.aws/en/intro.html)
+### [Well Archticted Review](https://wellarchitectedlabs.com/operational-excellence/100_labs/100_dependency_monitoring/5_bonus_content/)
 
