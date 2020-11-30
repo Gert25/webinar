@@ -24,6 +24,10 @@
 
 ### [Building inteligent Applications with Machnine Learning](https://register.gotowebinar.com/recording/viewRecording/2392587189262732813/3954278530992523265/gert@synthesis.co.za?registrantKey=8208248336461652235&type=ABSENTEEEMAILRECORDINGLINK)
 
+### [Builder Series](https://pages.awscloud.com/emea-developers-lets-build-series-episode-1-on-demand-confirmation.html?sc_channel=em&sc_campaign=emea20_letsbuildseriesp1q4&sc_medium=%20em_315884&sc_content=REG_webinar_field&sc_geo=emea&sc_country=mult&sc_outcome=reg&sc_publisher=aws&trkCampaign=emea20_letsbuildseriesp1q4&trk=em_thankyou_emea20_letsbuildseriesp1q4_315884)
+
+
+
 ## [Security Roadshow](https://emea-resources.awscloud.com/aws-mea-security-virtual-roadshow)
 
 
