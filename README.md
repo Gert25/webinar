@@ -43,4 +43,5 @@
 - [Twitch](https://www.twitch.tv/videos/822487621)
 - [Sample Templates](https://github.com/aws-samples/aws-proton-sample-templates/) 
 - [Public Roadmap](https://github.com/aws/aws-proton-public-roadmap)
+- [Practical Implementation](https://aws.amazon.com/blogs/containers/intro-to-aws-proton/)
 
