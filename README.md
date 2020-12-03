@@ -38,3 +38,9 @@
 ### [Migrations](https://application-migration-with-aws.workshop.aws/en/intro.html)
 ### [Well Archticted Review](https://wellarchitectedlabs.com/operational-excellence/100_labs/100_dependency_monitoring/5_bonus_content/)
 
+# Proton
+- [Blog](https://aws.amazon.com/blogs/aws/preview-aws-proton-automated-management-for-container-and-serverless-deployments/)
+- [Twitch](https://www.twitch.tv/videos/822487621)
+- [Sample Templates](https://github.com/aws-samples/aws-proton-sample-templates/) 
+- [Public Roadmap](https://github.com/aws/aws-proton-public-roadmap)
+
