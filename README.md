@@ -1,5 +1,5 @@
 # Webinar
-
+[Modernize data infrastructure](https://register.gotowebinar.com/recording/viewRecording/7722642435778067723/4102260708738375169/gcvanrooyen25@gmail.com?registrantKey=7883459206258264333&type=ATTENDEEEMAILRECORDINGLINK)
 
 
 ### [AWS Glue for ETL](https://register.gotowebinar.com/recording/viewRecording/6859867747465885197/8235963725486654988/gert@synthesis.co.za?registrantKey=3295578705452324877&type=ATTENDEEEMAILRECORDINGLINK)
