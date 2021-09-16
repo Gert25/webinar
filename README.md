@@ -1,12 +1,14 @@
 
 # Webinar
 --
+
 ## Data Engineering
 **[Modernize data infrastructure](https://register.gotowebinar.com/recording/viewRecording/7722642435778067723/4102260708738375169/gcvanrooyen25@gmail.com?registrantKey=7883459206258264333&type=ATTENDEEEMAILRECORDINGLINK)**
 
 **[Data Analytics Modernization](https://pages.awscloud.com/EMEA-field-OE-analytics-modernization-week-202109-on-demand-content?trkCampaign=&trk=em_thankyou__422180&sc_channel=em&sc_campaign=EMEA_FIELD_WEBINAR_WOAB-Pan-EMEA-emea-data-modernization-week_20210913_7014z000001hRYR.Thank%20You%20On%20demand%20[OPER]%20-%20Email%20Send&sc_publisher=aws&sc_medium=em_422180&sc_content=&sc_country=ZA&sc_region=EMEA)**
 
 **[Liberate Data Assets](https://register.gotowebinar.com/recording/viewRecording/4428883830961139979/1273101841771928328/gcvanrooyen25@gmail.com?registrantKey=3786650293862797584&type=ABSENTEEEMAILRECORDINGLINK)**
+
 --
 
 ### [AWS Glue for ETL](https://register.gotowebinar.com/recording/viewRecording/6859867747465885197/8235963725486654988/gert@synthesis.co.za?registrantKey=3295578705452324877&type=ATTENDEEEMAILRECORDINGLINK)
