@@ -9,6 +9,7 @@
 
 **[Liberate Data Assets](https://register.gotowebinar.com/recording/viewRecording/4428883830961139979/1273101841771928328/gcvanrooyen25@gmail.com?registrantKey=3786650293862797584&type=ABSENTEEEMAILRECORDINGLINK)**
 
+**[Cloud Analytics Journey](https://register.gotowebinar.com/recording/viewRecording/3470250429028849675/1851503232142613000/gcvanrooyen25@gmail.com?registrantKey=4807554536834670095&type=ATTENDEEEMAILRECORDINGLINK)
 --
 
 ### [AWS Glue for ETL](https://register.gotowebinar.com/recording/viewRecording/6859867747465885197/8235963725486654988/gert@synthesis.co.za?registrantKey=3295578705452324877&type=ATTENDEEEMAILRECORDINGLINK)
